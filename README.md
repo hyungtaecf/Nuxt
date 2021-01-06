@@ -1,1 +1,1 @@
-Project using Nuxt and Axios.
+Project using Vue, Nuxt and Axios.
